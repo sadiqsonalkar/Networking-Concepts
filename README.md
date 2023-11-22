@@ -1,7 +1,7 @@
 # Networking-Concepts
 This repo contains files that help understand networking in detail. A step-by-step is taken in the repo
 
-0. Installation of GNS
+#0. Installation of GNS
 1. Implement BGP Communities
 a. Implement eBGP for Ipv4
    b. Implement MP(Multi-protocol) -BGP
