@@ -3,7 +3,7 @@ This repo contains files that help understand networking in detail. A step-by-st
 
 0. Installation of GNS
 1. Implement BGP Communities
-   a. Implement eBGP for Ipv4
+a. Implement eBGP for Ipv4
    b. Implement MP(Multi-protocol) -BGP
    c. Implement BGP path Manipulation
 2. Implement GRE Tunnel & NAT
